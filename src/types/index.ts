@@ -1,4 +1,4 @@
-export type Expression = 'happy' | 'surprised' | 'wink' | 'love' | 'calm'
+export type Expression = 'happy' | 'surprised' | 'angry' | 'pouty' | 'cute' | 'wink' | 'love' | 'calm'
 
 export interface UploadedImage {
   id: string
